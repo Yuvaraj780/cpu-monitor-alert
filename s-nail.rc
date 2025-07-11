@@ -1,7 +1,8 @@
 set mta="smtp://smtp.gmail.com:587"
 set smtp-use-starttls
 set smtp-auth=login
-set smtp-auth-password="lvqh tell cffc jqpb"
-set smtp-auth-user="yuviyuvaraj7639@gmail.com"
-set from="yuviyuvaraj7639@gmail.com"
+set smtp-auth-user="your_email@gmail.com"
+set smtp-auth-password="your_app_password"
+set from="your_email@gmail.com"
+
 
