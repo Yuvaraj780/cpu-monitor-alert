@@ -1,6 +1,6 @@
 #!/bin/bash
 
-THRESHOLD=1
+THRESHOLD=50
 idle=$(top -bn1 | grep "Cpu(s)" | awk '{print $8}')
 usage=$(echo "100 - $idle" | bc)
 
