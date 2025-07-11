@@ -1,0 +1,7 @@
+set mta="smtp://smtp.gmail.com:587"
+set smtp-use-starttls
+set smtp-auth=login
+set smtp-auth-password="lvqh tell cffc jqpb"
+set smtp-auth-user="yuviyuvaraj7639@gmail.com"
+set from="yuviyuvaraj7639@gmail.com"
+

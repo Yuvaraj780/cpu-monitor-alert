@@ -1,0 +1,3 @@
+#*/5 * * * * /home/root/sysmon/monitor.sh
+#* * * * * /root/cpu_monitor.sh >> /var/log/cpu_monitor.log 2>&1
+
